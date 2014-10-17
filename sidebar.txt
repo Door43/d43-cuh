@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cuh:home|Door43 (cuh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cuh|d43-cuh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cuh/archive/master.zip|d43-cuh.zip]]
+
+**Recent Changes**
+{{changes>ns = cuh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cuh|Ethnologue data]]
+
